@@ -1,4 +1,5 @@
 This Java project implements a classic Snake game. The player controls a snake that grows by eating food, avoiding collisions with itself and the game boundaries.
+
 About:-
     Basic snake movement (left, right, up, down)
     Food generation and consumption
